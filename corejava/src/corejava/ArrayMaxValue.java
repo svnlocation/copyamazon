@@ -5,7 +5,7 @@ public class ArrayMaxValue {
 	
 	public static void main(String args[])
 	{
-		int a[]={35,49,45,445555\\\\};
+		int a[]={35,49,45,445555};
 		int b[]={15,7,5};
 		
 		for(int i=0; i<a.length; i++)
