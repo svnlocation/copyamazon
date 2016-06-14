@@ -15,9 +15,8 @@
               {{ 'Message: ' + item.message }}
             </li>
          </ol>
-         <div>
-         	<span ng-bind="helloTo.title"></span>
-         
+         <div ng-controller="HelloController">
+         	<h2>Welcome to {{helloTo.title}}</h2>
          </div>
       </div>
       
