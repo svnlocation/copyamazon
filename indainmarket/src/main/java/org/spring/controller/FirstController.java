@@ -21,7 +21,7 @@ public class FirstController {
 		List<Information> list = new ArrayList<Information>();
 		
 		Information info1 = new Information();
-		info1.setMessage("Item1 Page");
+		info1.setMessage("Item1 Page1");
 		
 		Information info2 = new Information();
 		info2.setMessage("Item2 Page");
