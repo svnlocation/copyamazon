@@ -1,1 +1,0 @@
-create a lib folder in this directory and copy  spring jars and also jackson-core,jackson-data-bind,jackson-annotations, commons-looging jars
