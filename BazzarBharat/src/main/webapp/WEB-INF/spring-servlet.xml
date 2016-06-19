@@ -22,7 +22,7 @@
 		destroy-method="close">
 		<beans:property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<beans:property name="url"
-			value="sql6.freesqldatabase.com" />
+			value="jdbc:mysql://sql6.freesqldatabase.com:3306/" />
 		<beans:property name="username" value="sql6123922" />
 		<beans:property name="password" value="LMrx2Xxn5V" />
 	</beans:bean>
